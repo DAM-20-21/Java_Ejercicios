@@ -26,7 +26,7 @@ public class Ejercicio_1 {
        
         
         switch (dia){
-            case"lunes":
+            case"Lunes":
                 System.out.println("Matematicas");
                 break;
             case "Martes":
