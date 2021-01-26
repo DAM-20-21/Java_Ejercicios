@@ -23,7 +23,7 @@ public class Ejercicio_1 {
         
         Scanner a= new Scanner(System.in); 
         dia = a.nextLine();
-
+       
         
         switch (dia){
             case"lunes":
