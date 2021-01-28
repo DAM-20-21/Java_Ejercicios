@@ -18,6 +18,7 @@ public class Ejercicio2 {
         System.out.println("Introducta la hora del día  de 0 horas a 23 horas");
         int hora;
         
+        
         Scanner a= new Scanner (System.in);
         hora = a.nextInt();
         
